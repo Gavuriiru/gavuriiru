@@ -1,8 +1,7 @@
 ### SSF!
 <div>
   <a href="https://github.com/gavuriiru">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gavuriiru&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavuriiru&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gavuriiru&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavuriiru&layout=compact&langs_count=7&theme=react"/>
  </div>
  
 
@@ -14,4 +13,5 @@
   <a href = "mailto:gavuriiru@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
   ![Snake animation](https://github.com/gavuriiru/gavuriiru/blob/output/github-contribution-grid-snake.svg)
+
   </div>
